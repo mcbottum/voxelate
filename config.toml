@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "id"
 title = "VOXELATE"
-theme = "voxelate_theme"
+theme = "seminyak"
 
 [params]
   theme_color = "#66ccff"
